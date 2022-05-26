@@ -1,4 +1,3 @@
-import React from 'react'
 import PropTypes from 'prop-types'
 import { Link as FilterLink } from './Link'
 const FILTER_TITLES = ['All', 'Active', 'Completed']

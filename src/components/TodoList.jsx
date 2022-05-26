@@ -1,4 +1,3 @@
-import React from 'react'
 import { TodoItem } from './TodoItem'
 import { getFilteredTodos } from '../stores/util'
 import { Reorder } from 'framer-motion'

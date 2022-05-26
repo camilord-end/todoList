@@ -1,4 +1,3 @@
-import React from 'react'
 import { TodoTextInput } from './TodoTextInput'
 import { useTodo } from '../useTodo'
 import { motion } from 'framer-motion'
