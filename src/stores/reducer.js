@@ -39,7 +39,6 @@ export const reducer = (state, action) => {
         todos: todos.map(todo => ({ ...todo, completed: !areAllMarked })),
         visibilityFilter
       }
-      console.log(result)
       return result
     }
     case 'CLEAR_COMPLETED':
