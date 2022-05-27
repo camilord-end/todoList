@@ -16,7 +16,7 @@ const Header = () => {
           delay: 0.2
         }}
       >
-        todos
+        To Do List
       </motion.h1>
       <TodoTextInput
         newTodo
