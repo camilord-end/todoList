@@ -28,7 +28,7 @@ const Header = () => {
             })
           }
         }}
-        placeholder='What needs to be done?'
+        placeholder='What do you need to do?'
       />
     </header>
   )
